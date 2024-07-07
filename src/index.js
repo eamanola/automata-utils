@@ -1,6 +1,6 @@
-const errors = require('./errors');
-const middlewares = require('./middlewares');
-const utils = require('./utils');
+const errors = require('./lib/errors');
+const middlewares = require('./lib/middlewares');
+const utils = require('./lib/utils');
 
 module.exports = {
   errors,
