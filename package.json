@@ -1,6 +1,6 @@
 {
   "name": "automata-utils",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "helper utilities for automata",
   "main": "dist/index.bundle.js",
   "files": [
