@@ -1,6 +1,5 @@
 const { logger } = require('../utils');
 
-// eslint-disable-next-line no-unused-vars
 const errorHandler = (knownErrors, { defaultTo500 = true } = {}) => (err, req, res, next) => {
   const { name, status, message } = err;
 
