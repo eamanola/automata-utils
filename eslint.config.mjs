@@ -65,7 +65,7 @@ export default [
             'eslint.config.mjs',
             'webpack.config.cjs',
             '**/*.test.js',
-            'vite.config.mjs',
+            'esbuild.config.cjs',
           ],
         },
       ],
