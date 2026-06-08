@@ -4,6 +4,7 @@ const utils = require('./lib/utils');
 
 module.exports = {
   errors,
+  logger: utils.logger,
   middlewares,
   utils,
 };
