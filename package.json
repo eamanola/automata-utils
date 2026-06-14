@@ -1,6 +1,6 @@
 {
   "name": "automata-utils",
-  "version": "0.0.31",
+  "version": "0.0.32",
   "description": "helper utilities for automata",
   "type": "commonjs",
   "files": [
@@ -23,7 +23,11 @@
   "keywords": [
     "utilities"
   ],
-  "author": "Ehsun Amanolahi",
+  "author": {
+    "name": "Ehsun Amanolahi",
+    "email": "ehsun.amanolahi@gmail.com",
+    "url": "https://codeberg.org/eamanola"
+  },
   "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/eamanola/automata-utils/issues"
