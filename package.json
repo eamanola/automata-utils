@@ -1,6 +1,6 @@
 {
   "name": "automata-utils",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "description": "helper utilities for automata",
   "type": "commonjs",
   "files": [
@@ -45,7 +45,6 @@
     "jest": "^30.4.2"
   },
   "dependencies": {
-    "dotenv": "^17.4.2",
     "jsonwebtoken": "^9.0.3"
   }
 }
