@@ -1,6 +1,6 @@
 {
   "name": "automata-utils",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "helper utilities for automata",
   "type": "commonjs",
   "files": [
@@ -21,12 +21,10 @@
     "url": "git+https://github.com/eamanola/automata-utils.git"
   },
   "keywords": [
-    "utilities",
-    "node",
-    "server"
+    "utilities"
   ],
   "author": "Ehsun Amanolahi",
-  "license": "ISC",
+  "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/eamanola/automata-utils/issues"
   },
